@@ -5,14 +5,14 @@
 
 ## Mirrors
 
-- [Twilog](https://twilog.togetter.com/yuuki26) ([jpn](https://twilog.togetter.com/yuuki170))
+- [Twilog](https://twilog.togetter.com/yuuki26) ([jpn](https://twilog.togetter.com/yuuki29))
 - [Threads](https://www.threads.com/@yuuki321)
 - [Bluesky](https://bsky.app/profile/yuukikonno.bsky.social)
 - [Mastodon](https://mastodon.social/@yuukikonno)
 
 ## Archives
 
-- [Archive.today](https://archive.today/https://x.com/yuuki26/status/*) ([jpn](https://archive.today/https://x.com/yuuki170/status/*))
+- [Archive.today](https://archive.today/https://x.com/yuuki26/status/*) ([jpn](https://archive.today/https://x.com/yuuki29/status/*))
 - [Posfie](https://posfie.com/@yuuki26/p/1GwHcQz) ([jpn](https://posfie.com/@yuuki26/p/wepqH4t))
 - [FC2 Blog (- Jun 2024)](https://yuuki6.blog.fc2.com/)
 - [Google Drive (- 2023)](https://drive.google.com/drive/folders/1jiTbgwpmjpOghzxqSQmy_m7WAGxjszZU)
