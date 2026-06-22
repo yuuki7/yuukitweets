@@ -32,13 +32,4 @@
 
 ## License
 
-All of yuuki's content on X (Twitter), Mastodon, and Bluesky (including text, images, videos, and audio) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-
-<details>
-<summary>[show]</summary>
-
-https://github.com/user-attachments/assets/8920ccf0-003d-46d2-a480-da4a5431745a
-
-https://youtu.be/b6dcrSjsA7A
-
-</details>
+All of yuuki's content on X (Twitter), Threads, Bluesky, and Mastodon (including text, images, videos, and audio) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
